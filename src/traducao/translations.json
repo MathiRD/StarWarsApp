@@ -1,0 +1,52 @@
+{
+  "hair_color": {
+    "blond": "loiro",
+    "brown": "castanho",
+    "black": "preto",
+    "red": "ruivo",
+    "white": "branco",
+    "gray": "cinza",
+    "grey": "cinza",
+    "none": "nenhum",
+    "brown, grey": "castanho e cinza",
+    "auburn, white": "acobreado e branco"
+  },
+  "skin_color": {
+    "gold": "dourada",
+    "fair": "clara",
+    "dark": "escura",
+    "light": "clara",
+    "green": "verde",
+    "blue": "azul",
+    "yellow": "amarela",
+    "brown": "marrom",
+    "red": "vermelha",
+    "purple": "roxa",
+    "white": "branca",
+    "white, blue": "branca e azul",
+    "unknown": "desconhecido",
+    "brown mottle": "manchada de marrom",
+    "pale": "pálida"
+  },
+  "eye_color": {
+    "blue": "azul",
+    "brown": "castanho",
+    "green": "verde",
+    "red": "vermelho",
+    "yellow": "amarelo",
+    "orange": "laranja",
+    "black": "preto",
+    "gray": "cinza",
+    "grey": "cinza",
+    "hazel": "avelã",
+    "blue-gray": "azul-cinza",
+    "unknown": "desconhecido"
+  },
+  "gender": {
+    "male": "masculino",
+    "female": "feminino",
+    "hermaphrodite": "hermafrodita",
+    "none": "nenhum",
+    "unknown": "desconhecido"
+  }
+}
